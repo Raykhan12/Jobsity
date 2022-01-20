@@ -3,7 +3,7 @@
 </div>
 
 # Python/Django Challenge
-![Screenshot](https://git.jobsity.com/Ramon_Parra/django-challenge/-/blob/RP_Challenge/Screenshot/get_token.PNG)
+![Screenshot](https://ardalis.com/img/copy-image-into-issue.png)
 ## Description
 This project is designed to test your knowledge of back-end web technologies, specifically in Python/Django, Rest APIs, and decoupled services (microservices).
 
